@@ -46,3 +46,12 @@ Welcome to my GitHub! I'm passionate about building innovative software solution
 ---
 
 *Fun fact: I love building games and exploring new technologies! Feel free to check out my repositories and reach out if you'd like to collaborate.*
+
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=strangerwhoisharborofdoom&theme=dark&hide_border=true)
+
+</div>

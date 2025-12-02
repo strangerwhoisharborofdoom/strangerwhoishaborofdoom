@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pavan Nambiar
+# Hi there 👋 I'm Pavan C N
 
 **Full-Stack Developer | AI Enthusiast | Game Developer**
 

@@ -1,57 +1,57 @@
-# Hi there 👋 I'm Pavan C N
+<p align="center">
+</p>
 
-**Full-Stack Developer | AI Enthusiast | Game Developer**
-
-Welcome to my GitHub! I'm passionate about building innovative software solutions, from web applications to AI-powered tools and interactive games.
-
-## 🚀 What I'm Working On
-
-- Building **AI-powered language coaching platforms** for medical professionals
-- Developing **real-time strategy games** with HTML5 and JavaScript
-- Creating **full-stack applications** with modern tech stacks
-- Learning advanced **system design and algorithms**
-
-## 💻 Tech Stack
-
-**Languages:** C | JavaScript | Python | HTML5 | CSS
-
-**Frontend:** React | Tailwind CSS
-
-**Backend:** Node.js | REST APIs
-
-**Databases:** MongoDB | SQL
-
-**Tools:** Git | GitHub | VS Code
-
-## 📊 Featured Projects
-
-- **[LangCoach-AI](https://github.com/strangerwhoishaborofdoom/langCoach-AI)** - AI-powered language learning platform
-- **[LangCoach-Medical-AI](https://github.com/strangerwhoishaborofdoom/LangCoach-Medical-AI)** - Specialized medical language coaching tool
-- **[Last Colony RTS](https://github.com/strangerwhoishaborofdoom/last-colony-rts-game)** - Real-time strategy game built with HTML5
-- **[Clash of Clans Game](https://github.com/strangerwhoishaborofdoom/clash-of-clans-game)** - Game development project
-- **[C Programming](https://github.com/strangerwhoishaborofdoom/C-Programming-language)** - Core programming fundamentals
-
-## 🎯 Open to Opportunities
-
-- 🔍 Seeking **internships and freelance projects** in full-stack development
-- 💡 Open to collaboration on **AI/ML projects** and **game development**
-- 📍 Based in **Bengaluru, India**
-
-## 📫 Let's Connect!
-
-- **Email:** [p0073100@gmail.com](mailto:p0073100@gmail.com)
-- **LinkedIn:** [linkedin.com/in/pavan-nambiar](https://linkedin.com/in/pavan-nambiar)
-- **GitHub:** [@strangerwhoishaborofdoom](https://github.com/strangerwhoishaborofdoom)
-
----
-
-*Fun fact: I love building games and exploring new technologies! Feel free to check out my repositories and reach out if you'd like to collaborate.*
+<h4 align="center" id="begin"><samp>Hola!</h4>
 
 
-## 📈 GitHub Stats
+  <div align="center">
+      <b>&#9487
+        &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
+        &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
+        &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
+        &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
+        &#9489</b>
+  </div>
 
-<div align="center">
+<p align="center"><samp>
+‿︵‿︵‿︵ Tech Enthusiast,On The Grind To Earn! ‿︵‿🛥︵‿
+<br>
+</samp></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=strangerwhoisharborofdoom&theme=dark&hide_border=true)
-
+<p align="center">
+  | <br> <b>&#9679</b> <br>
+  <img src="https://cdn.discordapp.com/attachments/1106222232834945084/1106225152141824000/eq_anim.gif" height="100px"/>
+  <br>
+  <b>&#9679</b>
+  <br> <samp> <i>Spotify Status</i> </samp>
+  <br> <br>
+  <a href="https://open.spotify.com/user/84htdhk91cxjqf7v8rwtphm5t">
+    <img src="https://spotify-test1.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Now Playing">
+  </a>
+</p>
 </div>
+<h2 align="center">⚒️ Languages-Frameworks-Tools I Use ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=aftereffects,python,vscode,github,photoshop,firebase,mongodb,aws,blender,cpp,docker,gcp,js,linkedin,nodejs,notion,npm,ps,pr,react," />
+  </div>
+<br>
+  
+<div align="center">
+    <b>&#9494
+        &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
+        &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
+        &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
+        &#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800&#x2800
+      &#9498</b>
+
+
+<details align="center" id="details">
+  <summary>&#128498</summary>
+  <div align="center">
+    <a>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notankith&theme=transparent&hide_border=true" width="50%" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notankith&theme=github_dark&layout=compact&hide_border=true&bg_color=00000000" width="40%" />
+    </a>
+  </div>
+</details>
